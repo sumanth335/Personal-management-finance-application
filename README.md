@@ -5,11 +5,12 @@
 </center>
 
 ## Tech Stack Used 
-* Java 15
+* Java 17
 * Spring Boot
 * Spring Security (JWT Based Authentication and Authorization)
 * Spring Data JPA/Hibernate
 * PostgreSQL
+* MongoDB
 * Open-API (Swagger-UI)
 * Lombok
 * Figma
@@ -98,7 +99,7 @@ http://localhost:9090/plutocracy/swagger-ui.html
 ---
 
 ## Setup With Docker
-* Install Java 15
+* Install Java 17
 * Install Maven
 
 Recommended way is to use [sdkman](https://sdkman.io/) for installing both maven and java
