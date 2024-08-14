@@ -1,4 +1,4 @@
-# Personal Finance Management Application
+# Personal Management Finance Application
 
 <center>
 	<a target='_blank' href='https://plutcracy.herokuapp.com/plutcracy/swagger-ui.html'>CLICK HERE TO VIEW API DOCS (Deployed Swagger-UI)</a>
